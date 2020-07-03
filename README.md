@@ -2,8 +2,18 @@
 
 #### 教程
 [KKBOX iOS/Mac OS X 基础开发教材](https://shujucn.gitbooks.io/kkbox-ios-mac-os-x/content/qian-yan.html)<br>
-[nixzhu/dev-blog](https://github.com/nixzhu/dev-blog)<br>
+[nixzhu/dev-blog  翻译、开发心得或学习笔记](https://github.com/nixzhu/dev-blog)<br>
 [draveness/analyze  框架解析](https://github.com/draveness/analyze)<br>
+[Github上关于iOS的各种开源项目集合（强烈建议大家收藏，查看，总有一款你需要）](https://blog.csdn.net/jiashaoying/article/details/79079500)<br>
+[iOS 开发资源汇总 肯定有你想要的资源(Continuously updated)](https://www.jianshu.com/p/e91274a7732a)<br>
+[iOS学习资源集合](https://www.jianshu.com/p/136e9a139750)<br>
+[继承和面向接口（iOS架构思想篇）](https://www.jianshu.com/p/39e6a8409476) 恭喜你发现了一个宝藏 <br>
+<br>
+<br>
+<br>
+
+#### 架构谈
+[Swift函数式编程](https://www.jianshu.com/p/f77e512fea3f)
 
 #### UIKit
 Quartz2D & CALayer & CAShapeLayer<br>
@@ -31,6 +41,9 @@ Quartz2D & CALayer & CAShapeLayer<br>
 [通过ViewModel规范TableView界面开发](http://www.cocoachina.com/articles/16002)<br>
 [UITableView的多选  funnyS](https://www.jianshu.com/p/a6e4cb42dd03)<br>
 [iOS多种类型的cell处理方案  落叶随风_90e5](https://www.jianshu.com/p/1d027d45565d)<br>
+
+#### ScrollView
+[iOS Scroll View 编程指导](https://www.jianshu.com/p/a4e7415cc594)
 
 # 多线程
 [『GCD』详尽总结  行走少年郎](https://www.jianshu.com/p/2d57c72016c6)<br>
