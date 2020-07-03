@@ -7,13 +7,13 @@
 [Github上关于iOS的各种开源项目集合（强烈建议大家收藏，查看，总有一款你需要）](https://blog.csdn.net/jiashaoying/article/details/79079500)<br>
 [iOS 开发资源汇总 肯定有你想要的资源(Continuously updated)](https://www.jianshu.com/p/e91274a7732a)<br>
 [iOS学习资源集合](https://www.jianshu.com/p/136e9a139750)<br>
-[继承和面向接口（iOS架构思想篇）](https://www.jianshu.com/p/39e6a8409476) 恭喜你发现了一个宝藏 <br>
 <br>
 <br>
 <br>
 
 #### 架构谈
-[Swift函数式编程](https://www.jianshu.com/p/f77e512fea3f)
+[Swift函数式编程](https://www.jianshu.com/p/f77e512fea3f)<br>
+[继承和面向接口（iOS架构思想篇）](https://www.jianshu.com/p/39e6a8409476) 恭喜你发现了一个宝藏 <br>
 
 #### UIKit
 Quartz2D & CALayer & CAShapeLayer<br>
@@ -51,5 +51,5 @@ Quartz2D & CALayer & CAShapeLayer<br>
 [GCD Swift 用法](https://www.jianshu.com/p/86d57da37361)
 
 # 组件化架构漫谈
-[组件化架构漫谈  刘小壮](https://www.jianshu.com/p/67a6004f6930) 这个真大佬
+[组件化架构漫谈  刘小壮](https://www.jianshu.com/p/67a6004f6930) 这个真大佬<br>
 [iOS组件化干货系列(一)---如何创建一个组件  会飞的大马猴](https://www.jianshu.com/p/f69abc2b526b)
