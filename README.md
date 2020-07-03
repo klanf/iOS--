@@ -20,6 +20,9 @@ Quartz2D & CALayer & CAShapeLayer<br>
 
 #### UIPageViewController
 [UIPageViewController使用  流火绯瞳](https://www.jianshu.com/p/bb5adb9de3b6)
-
-
 [UIPageViewController的使用  pro648](https://www.jianshu.com/p/0acd517f7e6c)
+
+#### UITableView
+[通过ViewModel规范TableView界面开发](http://www.cocoachina.com/articles/16002)<br>
+[UITableView的多选  funnyS](https://www.jianshu.com/p/a6e4cb42dd03)<br>
+[iOS多种类型的cell处理方案  落叶随风_90e5](https://www.jianshu.com/p/1d027d45565d)<br>
