@@ -1,6 +1,6 @@
 # iOS 资料收藏
 
-#### 教程
+## 教程
 [KKBOX iOS/Mac OS X 基础开发教材](https://shujucn.gitbooks.io/kkbox-ios-mac-os-x/content/qian-yan.html)<br>
 [nixzhu/dev-blog  翻译、开发心得或学习笔记](https://github.com/nixzhu/dev-blog)<br>
 [draveness/analyze  框架解析](https://github.com/draveness/analyze)<br>
@@ -11,11 +11,11 @@
 <br>
 <br>
 
-#### 架构谈
+## 架构谈
 [Swift函数式编程](https://www.jianshu.com/p/f77e512fea3f)<br>
 [继承和面向接口（iOS架构思想篇）](https://www.jianshu.com/p/39e6a8409476) 恭喜你发现了一个宝藏 <br>
 
-#### UIKit
+## UIKit
 Quartz2D & CALayer & CAShapeLayer<br>
 [简书-零点知晨](https://www.jianshu.com/p/91b0cb25d4cb)<br>
 [简书-本本的开心牧场](https://www.jianshu.com/p/e2b5bfae9abe)<br>
@@ -45,11 +45,11 @@ Quartz2D & CALayer & CAShapeLayer<br>
 #### ScrollView
 [iOS Scroll View 编程指导](https://www.jianshu.com/p/a4e7415cc594)
 
-# 多线程
+## 多线程
 [『GCD』详尽总结  行走少年郎](https://www.jianshu.com/p/2d57c72016c6)<br>
 [NSOperation详解  HuyaRC](https://www.jianshu.com/p/cffd3ace0653)<br>
 [GCD Swift 用法](https://www.jianshu.com/p/86d57da37361)
 
-# 组件化架构漫谈
+## 组件化架构漫谈
 [组件化架构漫谈  刘小壮](https://www.jianshu.com/p/67a6004f6930) 这个真大佬<br>
 [iOS组件化干货系列(一)---如何创建一个组件  会飞的大马猴](https://www.jianshu.com/p/f69abc2b526b)
